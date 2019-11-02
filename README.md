@@ -1,2 +1,0 @@
-# Kubernetes program files
-
